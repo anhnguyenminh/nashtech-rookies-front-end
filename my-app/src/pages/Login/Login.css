@@ -1,0 +1,26 @@
+/*.login-input {*/
+/*    width: 300px;*/
+/*}*/
+
+/*.login-form-title {*/
+/*    text-align: center;*/
+/*}*/
+
+/*.login-form-container {*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    width: 300px;*/
+/*}*/
+
+.form--input {
+    display: block;
+    margin: 20px;
+}
+.form--button-submit {
+    display: block;
+    margin: 20px;
+}
+.form--login-success {
+    margin: 20px;
+    color: green;
+}

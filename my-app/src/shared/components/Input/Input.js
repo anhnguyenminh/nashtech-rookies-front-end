@@ -1,7 +1,7 @@
 import React from 'react';
-import "./MyInput.css" ;
+import "./Input.css" ;
 
-const MyInput = ({showError, error, handleChange, handleBlur, value, ...rest}) => (
+const Input = ({showError, error, handleChange, handleBlur, value, ...rest}) => (
     <div>
         <input
             className="myInput"
@@ -16,4 +16,4 @@ const MyInput = ({showError, error, handleChange, handleBlur, value, ...rest}) =
     </div>
 );
 
-export default MyInput;
+export default Input;
