@@ -1,0 +1,18 @@
+.color-red{
+    background-color: orangered;
+    height: 100px;
+}
+.color-pink{
+    background-color: lightpink;
+}
+.color-violet{
+    background-color: violet;
+}
+
+.btn-select{
+    margin: 10px;
+}
+
+li {
+    margin: 15px;
+}
